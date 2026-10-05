@@ -1,6 +1,6 @@
 {
   "name": "noraz-agent",
-  "version": "0.1.21",
+  "version": "0.1.22",
   "description": "Open-source Robinhood trading agent infrastructure with MCP-powered DEX research, autonomous trading, agent wallets, and copy-trading capabilities",
   "main": "src/index.ts",
   "scripts": {
